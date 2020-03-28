@@ -1,4 +1,4 @@
-#! /usr/bin/ bash
+#!/bin/bash
 
 pkill chromium-browse
 sleep 5
