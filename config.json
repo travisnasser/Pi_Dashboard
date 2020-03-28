@@ -10,8 +10,24 @@
       "tabReloadIntervalSeconds": 600
     },
     {
-      "url": "https://trends.google.com/trends/trendingsearches/realtime?geo=US&category=all",
+      "url": "https://twitter.com/i/trends",
       "duration": 30,
       "tabReloadIntervalSeconds": 660
-    }]
+    },
+    {
+      "url": "https://trends.google.com/trends/trendingsearches/realtime?geo=US&category=all",
+      "duration": 30,
+      "tabReloadIntervalSeconds": 720
+    },
+    {
+      "url": "https://www.arcgis.com/apps/opsdashboard/index.html#/bda7594740fd40299423467b48e9ecf6",
+      "duration": 30,
+      "tabReloadIntervalSeconds": 7200
+    },
+    {
+      "url": "https://www.bloomberg.com/markets/stocks",
+      "duration": 30,
+      "tabReloadIntervalSeconds": 3600
+    }
+  ]
 }
