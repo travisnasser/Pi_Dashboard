@@ -13,5 +13,11 @@
       "url": "https://trends.google.com/trends/trendingsearches/realtime?geo=US&category=all",
       "duration": 30,
       "tabReloadIntervalSeconds": 660
-    }]
+    },
+    {
+      "url": "https://www.arcgis.com/apps/opsdashboard/index.html#/bda7594740fd40299423467b48e9ecf6",
+      "duration": 30,
+      "tabReloadIntervalSeconds": 660
+    }
+  ]
 }
